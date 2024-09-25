@@ -1,5 +1,5 @@
 ### Boas vindas ao meu perfil 💙💙
-Meu nome é Lavinya Ferreira de Caevalho
+Meu nome é Lavinya Ferreira de Carvalho
 
 ### Estou estudando na [Alura](https://www.alura.com.br)
 
